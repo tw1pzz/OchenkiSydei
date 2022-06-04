@@ -1,0 +1,12 @@
+D:\c#\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe.config
+D:\c#\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe
+D:\c#\ProjectWork\ProjectWork\bin\Debug\ProjectWork.pdb
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.AssemblyReference.cache
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.SuggestedBindingRedirects.cache
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.Form1.resources
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.Properties.Resources.resources
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.GenerateResource.cache
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.exe
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.pdb
+D:\c#\ProjectWork\ProjectWork\obj\Debug\ProjectWork.Form2.resources
